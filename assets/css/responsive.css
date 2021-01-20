@@ -1,0 +1,98 @@
+@media  (max-width:991px ) {
+     .a1 {
+          text-align: center;
+         padding: 0px;
+     }
+     .list-unstyled.list-abc {
+         display: none;
+     }
+     .thanh1 {
+         position: relative;
+         width: 100%;
+         max-width: 251px;
+         margin-left: 22px;
+     }
+     .thanh2 {
+         position: relative;
+         top: 0;
+         width: 100%;
+         max-width: 280px;
+         margin-left: 20px;
+     }
+     .thanh3 {
+        position: relative;
+        top: 0;
+        width: 100%;
+        max-width: 280px;
+        margin-left: 75px;
+    }
+    .thanh4 {
+        position: relative;
+        top: 0;
+        width: 100%;
+        max-width: 280px;
+        margin-left: 78px;
+    }
+    #hocbong {
+        margin-top: 400px;
+    }
+    .hoctap {
+        margin-top: 60px;
+    }
+    .form-contro {
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 60px;
+    }
+    .test-icon-1 {
+         display: none;
+    }
+    .test-icon-2 {
+        display: none;
+   }
+    .hocbong-1 h2 {
+        padding-right: 105px;
+        font-size: 21px;
+    }
+    .css
+    {
+        margin-bottom: 49px;
+    }
+    .css button {
+        width: 100%;
+        margin-left: 15px;
+    }
+    .bt-ltF button {
+        width: 100%;
+    }
+    .modal-1 button {
+        width: 100%;
+       margin-left: -12px;
+    }
+    .hoctap h2 {
+        padding-left: 50px;
+    }
+    .map iframe {
+        width: 97%;
+    }
+    .hn-slide img {
+        display: none;
+        padding: 15px;
+    }
+    .td {
+        padding-left: 36px;
+        font-size: 30px;
+    }
+    .ctdt p {
+        width: 100%;
+        padding: 0;
+    }
+    .icon-nav {
+        font-size: 20px;
+        color: #fff;
+    }
+    .logo img {
+        width: 55%;
+        height: 100%;
+    }
+}
